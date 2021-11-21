@@ -1,10 +1,10 @@
 # Criando seu Ecossistema de Big Data na Nuvem AWS
 Projeto Criando seu Ecossistema de Big Data na Nuvem - Bootcamp DIO
 
-#Instruções
+# Instruções
 * Acessar S3: https://s3.console.aws.amazon.com/s3/
-Criar estrutura de data lake : dio-live-datalake
-Criar estrutura de pastas:
+** Criar estrutura de data lake : dio-live-datalake
+** Criar estrutura de pastas:
 data
 output
 temp
